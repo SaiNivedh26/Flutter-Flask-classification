@@ -2,6 +2,8 @@
 
 In this App, Ive Made an API call to hosted docker image from flutter and Sent image from flutter to flask and got back prediction result
 
+GCP Hosted Link : https://classification-flask-request-sai-nivedh-2cgpribqxq-uc.a.run.app/
+
 
 ## Demo Video
 
