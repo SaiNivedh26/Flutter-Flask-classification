@@ -1,4 +1,4 @@
-# Classification Flutter App 
+# Classification Flutter App by [Sai Nivedh](https://www.linkedin.com/in/sainivedhai/)
 
 In this App, Ive Made an API call to hosted docker image from flutter and Sent image from flutter to flask and got back prediction result
 
