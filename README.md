@@ -10,3 +10,5 @@ GCP Hosted Link : https://classification-flask-request-sai-nivedh-2cgpribqxq-uc.
 
 https://github.com/SaiNivedh26/Flutter-Flask-classification/assets/142657686/bcf7f0c9-39e7-4360-b891-abc7c3598adc
 
+> [!NOTE]
+> The model has been Trained and developed by [Sai Nivedh](https://www.linkedin.com/in/sainivedhai/)
