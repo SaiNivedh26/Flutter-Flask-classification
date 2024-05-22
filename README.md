@@ -1,3 +1,3 @@
-# fin_app_1
+# Classification Flutter App 
 
-A new Flutter project.
+In this App, Ive Made an API call to hosted docker image from flutter and Sent image from flutter to flask and got back prediction result
